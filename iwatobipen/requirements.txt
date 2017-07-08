@@ -1,3 +1,4 @@
 pandas
 rdkit
+luigi
 scikit-learn
